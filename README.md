@@ -1,2 +1,2 @@
-# AsciiArtRotate
+## AsciiArtRotate
 Rotates the ascii art
